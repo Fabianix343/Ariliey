@@ -1,0 +1,192 @@
+
+
+
+
+.bg-portafolio{
+    background-color: rgba(0, 231, 146, 0.56);
+}
+
+.bg-portafolio ul li a{
+    color: rgb(0, 0, 0);
+}
+
+.bg-portafolio ul li a:hover{
+    color: rgb(129, 129, 129);
+}
+
+#Hero{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-image: url(../img/Captura\ de\ pantalla\ 2022-08-26\ 024355.png);
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#Hero h1{
+    color: black;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+#Hero p{
+    font-family: Chakra Petch;
+    color: rgba(0, 0, 0, 0.63);
+    font-size: 22px;
+}
+
+#Logo{
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+header{
+    width: 100%;
+    position: relative;
+    background: rgba(255, 255, 255, 0.56);
+}
+
+#Hex{
+    background-image: url(../img/Fondo.png);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+#Contacto{
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#ContCont{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#ContCont #Contact1{
+    padding: 20px;
+}
+
+#ContCont #cuadro1{
+    background-color: #20B1DF;
+    height: 100%;
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#ContCont h1{
+    font-family: Chakra Petch;
+}
+
+#ContCont p{
+    font-family: Chakra Petch;
+}
+
+#ContCont #cuadro2{
+    background-color: #20B1DF;
+    height: 100%;
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#ContCont #cuadro3{
+    background-color: #20B1DF;
+    height: 100%;
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+#Hex2{
+    background-image: url(../img/Fondo2.png);
+    
+    padding-top: 80px;
+    padding-bottom: 55px;
+}
+
+#Formacion #Title{
+    font-family: Chakra Petch;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#Formacion{
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#ContForm1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+#ContForm2{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    text-align: left;
+}
+
+#Formacion2 #Title2{
+    font-family: Chakra Petch;
+    color: black;
+    margin-bottom: 15px;
+    text-align: right;
+}
+
+#Formacion2{
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#ContForm3{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: right;
+}
+
+#Formulario{
+    width: 100%;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 70px;
+    background-image: url(../img/Fond3.png);
+    background-size: cover;
+}
+
+#forms{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#form-group{
+    margin: auto;
+}
+
+#Formulario h2{
+    font-family: Chakra Petch;
+    font-size: 40px;
+}
+
+#forms #form-group label{
+    font-family: Chakra Petch;
+    text-decoration: solid;
+}
+
+#forms #form-group input{
+    background-color: #20B1DF;
+}
+
+#forms #form-group textarea{
+    background-color: #20B1DF;
+}
+input:focus {
+    background: rgb(255, 255, 255);
+  }
